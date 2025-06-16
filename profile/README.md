@@ -1,6 +1,8 @@
 # รายวิชา 06016406 PROJECT 1 และ 06016407 PROJECT 2   
 
 ดูเอกสารเพิ่มเติมที่ https://resolute-leaf-839.notion.site/Final-Project-DSView-1fd2f55c6907809186f4c2daa4a3875b?pvs=73
+
+![](https://github.com/Project-DSView/.github/blob/main/profile/KMITL.svg) ![](https://github.com/Project-DSView/.github/blob/main/profile/IT.svg)
 <!--
 
 **Here are some ideas to get you started:**
